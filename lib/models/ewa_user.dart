@@ -1,0 +1,1 @@
+printf '%s\n' 'class EwaUser {' '  final String? uid;' '  final String? email;' '' '  EwaUser({this.uid, this.email});' '}' > lib/models/ewa_user.dart
