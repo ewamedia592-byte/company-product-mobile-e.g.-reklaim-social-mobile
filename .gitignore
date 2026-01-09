@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Large local artifacts - never commit
+backups/*.tar.gz
+commandlinetools.zip
+assistant-ts/node_modules/
+assistant-admin/node_modules/
+assistant-admin/.next/
+android/build/
+ios/Runner.xcodeproj/
