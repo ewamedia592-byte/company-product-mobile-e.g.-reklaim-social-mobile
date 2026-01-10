@@ -1,0 +1,3 @@
+[submodule "services/jue-assistant-ts"]
+	path = services/jue-assistant-ts
+	url = git@github.com:ewamedia592-byte/jue-assistant-ts.git
